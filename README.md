@@ -69,28 +69,3 @@ Product Requirements Document (PRD)
 Requirements Traceability Matrix (RTM)
 User Stories with Acceptance Criteria
 Wireframes and User Journey Maps
-Wireframes & Design: Figma Design System
-User Journey & Flow: Miro Board
-
-
-Future Vision
-Beyond the technical features, Library Connect embodies a scalable model for social good. Its modular design allows expansion into future cause-based verticals such as:
-
-School supplies distribution
-Hygiene kits for communities
-Scholarship funding programs
-After-school class support
-
-The platform is being developed with accessibility, transparency, and community engagement at its foundation.
-Impact
-Ultimately, Library Connect aspires to redefine digital philanthropy—turning one-time donations into ongoing community relationships. It aims to empower libraries to thrive, readers to grow, and donors to witness tangible impact through data-driven storytelling.
-Contact
-For questions or collaboration opportunities, reach out at: hemanthgarnapally@gmail.com
-
-Documentation
-
-Business Requirements Document (BRD)
-Product Requirements Document (PRD)
-Requirements Traceability Matrix (RTM)
-User Stories with Acceptance Criteria
-Wireframes and User Journey Maps
